@@ -1,4 +1,5 @@
 ## Hi there 👋:raised_eyebrow:	
+<!-- oma github overview etusivu, että vähä kuin mainostaa itsetnsä ja pieni tervehdys kukakin käy tässä tunnuksella/ sivustolla onkaan -->
 
 <p align="auto">
   <img src="https://wallpaperaccess.com/full/5374040.jpg" width="750" height="auto" alt="accessibility text">
