@@ -5,14 +5,21 @@
   <img src="https://wallpaperaccess.com/full/5374040.jpg" width="750" height="auto" alt="accessibility text">
 </p>
 
-<!-- laskuri vähä kuin monta kertaa ulkopuoliset henkilöt on käynnyt vilkaisee github x-käyttäjän sivustolla esim. harjoituksia, projektia tai yms dataa 
-![Visitor Count](https://profile-counter.glitch.me/{zhaotan18x}/count.svg) 
+<!-- laskuri vähä kuin monta kertaa ulkopuoliset henkilöt on käynnyt vilkaisee github x-käyttäjän sivustolla esim. harjoituksia, projektia tai yms dataa  
+![Visitor Count](https://profile-counter.glitch.me/{zhaotan18x}/count.svg) -->
 
+<!-- toinen malli, mutta ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=GITHUB-USERNAME.visitor-badge) -->
+<p> <img src="https://komarev.com/ghpvc/?username=GITHUB-zhaotan18x&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+
+<!-- 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=USERNAME.visitor-badge)
+-->
+
+<!--
 HUOM! tämä on malli pohja
 ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 -->
-
 <!--
 **zhaotan18x/zhaotan18x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
