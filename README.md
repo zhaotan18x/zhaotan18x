@@ -20,6 +20,9 @@ HUOM! tämä on malli pohja
 ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 -->
+
+![snake gif](https://github.com/zhaotan18x/zhaotan18x/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 **zhaotan18x/zhaotan18x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
