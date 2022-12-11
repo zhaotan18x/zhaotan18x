@@ -1,6 +1,8 @@
 ## Hi there 👋:grin:
 <!-- oma github overview etusivu, että vähä kuin mainostaa itsetnsä ja pieni tervehdys kukakin käy tässä tunnuksella/ sivustolla onkaan -->
 
+## Network doesn't work? reboot it and try again, check the cables and other eletricity
+
 <p align="auto">
   <img src="https://wallpaperaccess.com/full/5374040.jpg" width="750" height="auto" alt="accessibility text">
 </p>
